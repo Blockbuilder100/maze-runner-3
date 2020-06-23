@@ -1,0 +1,22 @@
+{
+    "name": "Maze Runner 3",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Tinybit": "github:lzty634158/tiny-bit#2addb562403d439fafc8cfe9c3bc8ff627160b5b"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
